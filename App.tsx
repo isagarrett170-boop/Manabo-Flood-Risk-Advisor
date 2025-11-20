@@ -96,7 +96,7 @@ const App: React.FC = () => {
               </span>
             </h1>
             <p className="text-xl text-gray-600 mb-10 leading-relaxed max-w-2xl mx-auto">
-              A comprehensive, quantitative-developmental study integrating GIS and Community-Based data to visualize Hazard, Vulnerability, and Exposure.
+              A comprehensive, quantitative-developmental study integrating GIS and Community-Based data to visualize Hazard, Vulnerability, Exposure, Soft Countermeasures, and Hard Countermeasures.
             </p>
             
             <div className="flex flex-wrap justify-center gap-3 text-sm font-medium text-gray-600 bg-gray-50 inline-flex py-3 px-8 rounded-full border border-gray-200 shadow-sm">

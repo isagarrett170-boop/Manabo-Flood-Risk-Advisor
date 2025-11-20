@@ -214,7 +214,7 @@ const generateDataSummary = () => {
 }
 
 export const THESIS_CONTEXT = `
-You are an expert academic advisor for a Civil Engineering thesis titled "Mapping and Indexing Flood Risk in Manabo, Abra".
+You are an academic reseacher for a Civil Engineering thesis titled "Mapping and Indexing Flood Risk in Manabo, Abra".
 The researchers are Angelzen A. Benedito, Rolly A. Duran, Dominique B. Pasal, Jeffershane Mae R. Tadeo, and Whitney B. Tulan.
 The study aims to map and index flood risk using a quantitative-developmental design integrating GIS and Analytic Hierarchy Process (AHP).
 
